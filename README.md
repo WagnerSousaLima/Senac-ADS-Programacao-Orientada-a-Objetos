@@ -1,4 +1,11 @@
-## Senac-ADS-Programacao-Orientada-a-Objetos
-##### Projetos feitos ao longo das aulas de Programação Orientada a Objetos
-##### Curso de Análise e Desenvolvimento de sistemas da faculdade Senac-SP
-##### Linguagem Java utilizando IDE Eclipse 
+## Projetos da matéria de Programação Oreintada a Objetos 
+
+*Exercícios feitos ao longo do semestre do Curso de Análise e dexeenvolvimeto de Sistemas
+do Senac-SP*
+
+
+
+
+
+
+
